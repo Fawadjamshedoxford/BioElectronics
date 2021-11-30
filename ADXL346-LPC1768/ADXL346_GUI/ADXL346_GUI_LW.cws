@@ -1,0 +1,244 @@
+[Workspace Header]
+Version = 1700
+Pathname = "/c/Users/labmz/Documents/Code/ADXL346_GUI/ADXL346_GUI_LW.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2017"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2017"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "ADXL346_GUI_LW.prj"
+Drag Bar Left = 201
+Window Top = 188
+Window Left = 224
+Window Bottom = 1143
+Window Right = 1877
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 9
+Window Confinement Region Enabled = True
+MainColumnWidth = 184
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1700
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/Users/labmz/Documents/Code/ADXL346_GUI/adxlgui_uir.uir"
+File Type = "User Interface Resource"
+Disk Date = 3651235447
+In Projects = "1,"
+Window Top = 332
+Window Left = 162
+Window Height = 349
+Window Width = 755
+Window Z-Order = 4
+
+[File 0002]
+Path = "/c/Users/labmz/Documents/Code/ADXL346_GUI/adxlgui_com.c"
+File Type = "CSource"
+Disk Date = 3651234238
+In Projects = "1,"
+Window Top = 62
+Window Left = 26
+Window Z-Order = 1
+Source Window State = "1,120,120,120,15,30,30,0,0,206,0,768,0,0,0,42,138,0,144,122,349,715,1,0,"
+Line Tags = "380,422,831,"
+
+[File 0003]
+Path = "/c/Users/labmz/Documents/Code/ADXL346_GUI/adxlgui_main.c"
+File Type = "CSource"
+Disk Date = 3651237261
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Z-Order = 2
+Source Window State = "1,78,78,78,3,17,17,0,0,84,0,42,0,0,0,25,27,0,36,35,349,747,1,0,"
+Line Tags = "2390,"
+
+[File 0004]
+Path = "/c/Program Files (x86)/National Instruments/CVI2017/include/ansi/stdlib.h"
+File Type = "Include"
+Disk Date = 3573590400
+In Projects = ""
+Window Top = 62
+Window Left = 26
+Window Z-Order = 9
+Source Window State = "1,0,0,0,0,0,0,0,0,82,0,0,0,0,0,23,0,0,81,22,323,731,1,0,"
+
+[File 0005]
+Path = "/c/Users/labmz/Documents/Code/ADXL346_GUI/adxlgui_com.h"
+File Type = "Include"
+Disk Date = 3651236208
+In Projects = "1,"
+Window Top = 92
+Window Left = 42
+Window Z-Order = 3
+Source Window State = "1,86,86,86,21,33,21,0,0,82,0,10,0,0,0,25,38,0,62,68,349,731,1,0,"
+
+[File 0006]
+Path = "/c/Users/labmz/Documents/Code/ADXL346_GUI/adxlgui_uir.h"
+File Type = "Include"
+Disk Date = 3651235447
+In Projects = ""
+Window Top = 122
+Window Left = 58
+Window Z-Order = 5
+Source Window State = "1,196,196,196,9,23,23,0,0,80,0,0,0,0,0,25,156,0,193,48,349,715,1,0,"
+
+[File 0007]
+Path = "/c/Users/labmz/Documents/Code/ADXL346_GUI/adxlgui_regs.h"
+File Type = "Include"
+Disk Date = 3644320850
+In Projects = "1,"
+Window Top = 212
+Window Left = 106
+Window Z-Order = 6
+Source Window State = "1,52,52,52,8,19,19,0,0,82,0,10,0,0,0,25,0,0,32,92,349,731,1,29,"
+
+[File 0008]
+Path = "/c/Program Files (x86)/National Instruments/CVI2017/include/rs232.h"
+File Type = "Include"
+Disk Date = 3573590400
+In Projects = ""
+Window Top = 242
+Window Left = 122
+Window Z-Order = 8
+Source Window State = "1,81,82,81,0,0,0,0,0,85,0,0,0,0,0,25,57,0,27,0,349,755,1,0,"
+
+[File 0009]
+Path = "/c/Program Files (x86)/National Instruments/CVI2017/include/userint.h"
+File Type = "Include"
+Disk Date = 3573590400
+In Projects = ""
+Window Top = 92
+Window Left = 42
+Window Z-Order = 7
+Source Window State = "1,278,278,278,8,22,22,0,3,85,0,0,0,0,0,25,233,0,278,8,349,755,1,0,"
+
+[Tab Order]
+Tab 0001 = "/c/Program Files (x86)/National Instruments/CVI2017/include/ansi/stdlib.h"
+Tab 0002 = "/c/Users/labmz/Documents/Code/ADXL346_GUI/adxlgui_uir.uir"
+Tab 0003 = "/c/Users/labmz/Documents/Code/ADXL346_GUI/adxlgui_main.c"
+Tab 0004 = "/c/Users/labmz/Documents/Code/ADXL346_GUI/adxlgui_com.c"
+Tab 0005 = "/c/Users/labmz/Documents/Code/ADXL346_GUI/adxlgui_com.h"
+Tab 0006 = "/c/Users/labmz/Documents/Code/ADXL346_GUI/adxlgui_regs.h"
+Tab 0007 = "/c/Program Files (x86)/National Instruments/CVI2017/include/rs232.h"
+Tab 0008 = "/c/Program Files (x86)/National Instruments/CVI2017/include/userint.h"
+Tab 0009 = "/c/Users/labmz/Documents/Code/ADXL346_GUI/adxlgui_uir.h"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Distributions]
+Active Index = 1
+AbsCDSPath 0001 = "/c/Users/labmz/Documents/Code/ADXL346_GUI/ADXL346_GUI_LW.cds"
+RelCDSPath 0001 = "ADXL346_GUI_LW.cds"
+
